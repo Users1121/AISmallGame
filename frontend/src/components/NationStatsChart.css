@@ -1,0 +1,35 @@
+.nation-stats-chart {
+  background: #1a1a1a;
+  border: 1px solid #2E8B57;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.nation-stats-chart h3 {
+  color: #fff;
+  margin: 0 0 15px 0;
+  font-size: 16px;
+  text-align: center;
+}
+
+.recharts-tooltip-item {
+  color: #fff;
+}
+
+.recharts-tooltip-item-value {
+  color: #4ECDC4;
+  font-weight: bold;
+}
+
+.recharts-legend-item-text {
+  color: #fff;
+}
+
+.recharts-cartesian-axis-tick-value {
+  fill: #999;
+}
+
+.recharts-cartesian-axis-line {
+  stroke: #2E8B57;
+}

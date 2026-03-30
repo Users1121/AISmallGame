@@ -1,0 +1,27 @@
+﻿{
+    "nation":  "nation_c",
+    "type":  "random_event",
+    "event":  {
+                  "type":  "natural_disaster",
+                  "name":  "ç²®é£æ­æ¶",
+                  "description":  "ç±äºæ°åå¼å¸¸ï¼æ¬å­£ç²®é£äº§éå¤§å¹\u0085ä¸é",
+                  "effect":  "food_production -40%",
+                  "duration":  1,
+                  "options":  [
+                                  {
+                                      "text":  "å¼æ¾ç´§æ¥å¨å¤",
+                                      "cost":  {
+                                                   "food":  50
+                                               },
+                                      "effect":  "no_loss"
+                                  },
+                                  {
+                                      "text":  "å®è¡é\u0085ç»å¶",
+                                      "cost":  {
+
+                                               },
+                                      "effect":  "happiness -5, cohesion +2"
+                                  }
+                              ]
+              }
+}
