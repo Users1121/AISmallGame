@@ -1,6 +1,15 @@
 # 多智能体联合项目游戏
 
 一个末日生存题材的多智能体策略游戏，三个AI领导人（DeepSeek、阿里云百炼、Kimi）分别以不同的治理理念领导幸存者，通过博弈决定人类文明的未来。
+项目演示图片：
+
+对话图1：<img width="2547" height="1163" alt="Image" src="https://github.com/user-attachments/assets/565e47f6-b53c-4822-9a57-336cc596d599" />
+
+对话图2：<img width="2508" height="1188" alt="Image" src="https://github.com/user-attachments/assets/688ff73b-73c6-40b6-9e83-6aa9a6dac058" />
+
+对话图3：<img width="2537" height="1143" alt="Image" src="https://github.com/user-attachments/assets/fb289f50-3746-4f73-b237-96169e5e94b2" />
+
+事件图：<img width="2464" height="1319" alt="Image" src="https://github.com/user-attachments/assets/b823a3b4-3038-4dbf-bc5c-8e918756ca69" />
 
 ## 项目特色
 
