@@ -13,7 +13,6 @@
 ## 项目结构
 
 ```
-leadergame/
 ├── backend/                    # 后端服务 (Python + FastAPI)
 │   ├── ai_agents/             # AI智能体模块
 │   │   ├── deepseek/          # DeepSeek智能体
